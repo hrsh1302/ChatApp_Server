@@ -5,8 +5,8 @@ The Chat App Server is the server-side component of the Chat App application, en
 ## How to Run
 
 1. Ensure that the Java Development Kit (JDK) is installed on your system.
-2. Launch the server by executing the `Chat_Server` class. The server will start listening on port 8080.
-3. Once the server is running, launch the client application.
+2. Launch the server by executing the `ChatApp_Server` class. The server will start listening on port 8080.
+3. Once the server is running, launch the [`ChatApp_Client`](https://github.com/hrsh1302/ChatApp_Client).
 4. Communicate with other users by sending and receiving messages.
 
 ## Features
